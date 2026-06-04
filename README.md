@@ -1,6 +1,4 @@
-Voici le code complet **de A à Z** à copier-coller directement dans ton fichier `README.md`. Il est orienté **Cybersécurité + Intelligence Artificielle**, avec tes infos CV : ENSA Fès, IA & Confiance Numérique, stages, projets, compétences, certifications et contact. 
 
-````md
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:22C55E&height=180&section=header&text=Meryem%20Echcharyfy&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />

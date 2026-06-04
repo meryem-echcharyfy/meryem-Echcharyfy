@@ -1,147 +1,191 @@
-<h1 align="center">Hi 👋, I'm Meryem Echcharyfy</h1>
+<div align="center">
 
-<h3 align="center">
-  AI Engineering Student | Cybersecurity • Cloud Computing • Software Engineering
-</h3>
+```
+███╗   ███╗███████╗██████╗ ██╗   ██╗███████╗███╗   ███╗
+████╗ ████║██╔════╝██╔══██╗╚██╗ ██╔╝██╔════╝████╗ ████║
+██╔████╔██║█████╗  ██████╔╝ ╚████╔╝ █████╗  ██╔████╔██║
+██║╚██╔╝██║██╔══╝  ██╔══██╗  ╚██╔╝  ██╔══╝  ██║╚██╔╝██║
+██║ ╚═╝ ██║███████╗██║  ██║   ██║   ███████╗██║ ╚═╝ ██║
+╚═╝     ╚═╝╚══════╝╚═╝  ╚═╝   ╚═╝   ╚══════╝╚═╝     ╚═╝
+```
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=850&lines=Artificial+Intelligence+Engineering+Student;AI+%26+Digital+Trust+Enthusiast;Cybersecurity+%7C+Cloud+Computing+%7C+DevOps;Full-Stack+and+AI+Project+Builder" alt="Typing SVG" />
-</p>
+# Meryem Echcharyfy
+
+**`AI Engineering Student · ENSA Fès`**
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=800&color=1D9E75&center=true&vCenter=true&width=650&lines=AI+%26+Digital+Trust+Engineering+Student;Cybersecurity+%7C+Cloud+Computing+%7C+DevOps;Building+intelligent%2C+secure+digital+solutions;Open+to+PFE+Internship+%F0%9F%9F%A2)](https://git.io/typing-svg)
+
+[![GitHub](https://img.shields.io/badge/GitHub-meryem--Echcharyfy-1D9E75?style=flat-square&logo=github&logoColor=white&labelColor=0a0f0c)](https://github.com/meryem-Echcharyfy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-1D9E75?style=flat-square&logo=linkedin&logoColor=white&labelColor=0a0f0c)](https://www.linkedin.com/in/meryem-echcharyfy-5ba4b9318)
+[![Email](https://img.shields.io/badge/Email-Contact-1D9E75?style=flat-square&logo=gmail&logoColor=white&labelColor=0a0f0c)](mailto:meryemechcharyfy9@gmail.com)
+![Status](https://img.shields.io/badge/Status-Open_to_PFE_Internship-1D9E75?style=flat-square&labelColor=0a0f0c)
+
+</div>
 
 ---
 
-## 👩‍💻 About Me
+## `$ whoami`
 
-I am **Meryem Echcharyfy**, an engineering student at **ENSA Fès**, specialized in **Artificial Intelligence and Digital Trust**.
+Engineering student at **ENSA Fès**, specialized in **Artificial Intelligence and Digital Trust**. I build intelligent, secure and practical digital solutions — from AI/ML models and NLP pipelines to REST APIs, microservices and cloud-native deployments.
 
-I am passionate about **Artificial Intelligence, Cybersecurity, Cloud Computing, Software Engineering and DevOps**.
-
-I enjoy building intelligent, secure and practical digital solutions, from data processing and AI models to web interfaces, APIs, databases and deployment.
-
-Currently, I am looking for a **PFE internship** where I can apply my technical skills and contribute to innovative projects.
+Passionate about the intersection of **AI, Cybersecurity and DevOps**. Currently seeking a **PFE internship** to contribute to impactful, real-world projects.
 
 ---
 
-## 🚀 Main Projects
+## `$ ls ./projects`
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 🎓 Intelligent Academic Orientation System
+AI-powered recommendation platform helping Moroccan students choose academic programs based on their profile, preferences, mobility and admission thresholds.
 
-An AI-based recommendation platform designed to help Moroccan students choose suitable academic programs according to their academic profile, preferences, mobility and admission thresholds.
+`Python` `Machine Learning` `Deep Learning` `React` `FastAPI` `PostgreSQL` `NLP` `Web Scraping`
 
-**Technologies used:**  
-`Python` `Machine Learning` `Deep Learning` `React` `FastAPI` `PostgreSQL` `Web Scraping` `NLP`
-
----
+</td>
+<td width="50%" valign="top">
 
 ### 🤖 RAG Chatbot Assistant
+Intelligent chatbot based on **Retrieval-Augmented Generation** and semantic search, answering questions from structured and unstructured documents.
 
-An intelligent chatbot based on **Retrieval-Augmented Generation** and semantic search, able to answer questions from structured and unstructured documents.
+`Python` `RAG` `NLP` `Semantic Search` `PDF Processing`
 
-**Technologies used:**  
-`Python` `NLP` `RAG` `Semantic Search` `PDF Processing`
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
----
+### 🔒 SecureEcom — Secure E-commerce Platform
+Full e-commerce platform with JWT authentication, protected APIs, role-based access control and microservices architecture.
 
-### 🛒 SecureEcom — Secure E-commerce Platform
-
-A secure e-commerce platform with authentication, protected APIs, access control and microservices architecture.
-
-**Technologies used:**  
 `Python` `Flask` `JWT` `REST API` `Microservices` `Secure Coding`
 
----
+</td>
+<td width="50%" valign="top">
 
-### 🚗 Android Car Rental Application
+### 📱 Android Car Rental Application
+Mobile application for car rental management featuring authentication, user roles, reservations and payment management.
 
-A mobile application for car rental management with authentication, roles, reservations and payment management.
+`Java` `Android Studio` `SQLite` `OOP`
 
-**Technologies used:**  
-`Java` `SQLite` `Android Studio` `Object-Oriented Programming`
-
----
-
-## 🛠️ Technologies & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,js,php,html,css,react,flask,fastapi,mysql,postgres,sqlite,git,github,docker,kubernetes,linux,vscode,tensorflow" />
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
-## 💡 Technical Skills
+## `$ cat skills.json`
 
-### Programming
+<details open>
+<summary><b>🤖 Artificial Intelligence</b></summary>
+<br>
 
-`Python` `Java` `SQL` `PHP` `JavaScript` `C`
+![Python](https://img.shields.io/badge/Python-1D9E75?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-1D9E75?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-1D9E75?style=flat-square&logo=scikitlearn&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-1D9E75?style=flat-square&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-1D9E75?style=flat-square&logoColor=white)
 
-### Artificial Intelligence
+`Machine Learning` · `Deep Learning` · `NLP` · `RAG` · `Recommendation Systems` · `Data Analysis`
 
-`Machine Learning` `Deep Learning` `NLP` `RAG` `Recommendation Systems` `Data Analysis`
+</details>
 
-### Cybersecurity
+<details>
+<summary><b>☁️ Cloud & DevOps</b></summary>
+<br>
 
-`Application Security` `JWT` `OpenSSL` `Secure Coding` `Access Control` `DevSecOps` `Cryptography Basics`
+![Docker](https://img.shields.io/badge/Docker-0F6E56?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0F6E56?style=flat-square&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-0F6E56?style=flat-square&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-0F6E56?style=flat-square&logo=ansible&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-0F6E56?style=flat-square&logo=jenkins&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI/CD-0F6E56?style=flat-square&logo=gitlab&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-0F6E56?style=flat-square&logo=argo&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-0F6E56?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-0F6E56?style=flat-square&logo=grafana&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-0F6E56?style=flat-square&logo=linux&logoColor=white)
 
-### Cloud & DevOps
+</details>
 
-`Docker` `Kubernetes` `Git` `GitLab CI/CD` `Jenkins` `Terraform` `Ansible` `ArgoCD` `Prometheus` `Grafana` `Linux`
+<details>
+<summary><b>🔐 Cybersecurity</b></summary>
+<br>
 
-### Software Engineering
+`Application Security` · `JWT` · `OpenSSL` · `Secure Coding` · `Access Control` · `DevSecOps` · `Cryptography`
 
-`Object-Oriented Programming` `REST APIs` `Microservices` `Design Patterns`
+</details>
 
-### Databases & Web
+<details>
+<summary><b>🛠️ Languages & Frameworks</b></summary>
+<br>
 
-`Oracle SQL` `PostgreSQL` `MySQL` `SQL Server` `SQLite` `React` `FastAPI` `Flask` `HTML` `CSS`
+![Python](https://img.shields.io/badge/Python-085041?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-085041?style=flat-square&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-085041?style=flat-square&logo=javascript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-085041?style=flat-square&logo=php&logoColor=white)
+![C](https://img.shields.io/badge/C-085041?style=flat-square&logo=c&logoColor=white)
+![React](https://img.shields.io/badge/React-085041?style=flat-square&logo=react&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-085041?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-085041?style=flat-square&logo=flask&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>🗄️ Databases</b></summary>
+<br>
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-04342C?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-04342C?style=flat-square&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle_SQL-04342C?style=flat-square&logo=oracle&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-04342C?style=flat-square&logo=sqlite&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-04342C?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+
+</details>
 
 ---
 
-## 📜 Certifications
+## `$ cat stats.md`
 
-- Cisco Network Technician Career Path
-- Cisco Python Essentials
-- Building AI — University of Helsinki
-- Object-Oriented Programming with Java — Universidad de Palermo
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=meryem-Echcharyfy&show_icons=true&theme=dark&bg_color=0a0f0c&border_color=1D9E75&icon_color=1D9E75&title_color=1D9E75&text_color=d4ede6&hide_border=false" height="160"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meryem-Echcharyfy&layout=compact&theme=dark&bg_color=0a0f0c&border_color=1D9E75&title_color=1D9E75&text_color=d4ede6" height="160"/>
 
-## 🌍 Languages
-
-- Arabic: Native
-- French: Fluent
-- English: Advanced
+</div>
 
 ---
 
-## 📈 GitHub Statistics
+## `$ cat certifications.txt`
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=meryem-Echcharyfy&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meryem-Echcharyfy&layout=compact&theme=tokyonight" height="170" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/meryem-Echcharyfy">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="mailto:meryemechcharyfy9@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/meryem-echcharyfy-5ba4b9318">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" />
-  </a>
-</p>
+| Certification | Issuer |
+|---|---|
+| Network Technician Career Path | Cisco |
+| Python Essentials | Cisco |
+| Building AI | University of Helsinki |
+| Object-Oriented Programming with Java | Universidad de Palermo |
 
 ---
 
-<p align="center">
-  <i>“Building intelligent, secure and impactful digital solutions.”</i>
-</p>
+## `$ locale`
 
-<p align="center">
-  ⭐ Thank you for visiting my profile ⭐
-</p>
+| Language | Level |
+|---|---|
+| 🇲🇦 Arabic | Native |
+| 🇫🇷 French | Fluent |
+| 🇬🇧 English | Advanced |
+
+---
+
+<div align="center">
+
+```
+// "Building intelligent, secure and impactful digital solutions."
+```
+
+*Open to PFE internship opportunities · Morocco & Remote*
+
+[![GitHub followers](https://img.shields.io/github/followers/meryem-Echcharyfy?style=flat-square&color=1D9E75&labelColor=0a0f0c)](https://github.com/meryem-Echcharyfy)
+
+</div>

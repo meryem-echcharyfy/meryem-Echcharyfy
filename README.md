@@ -131,7 +131,7 @@ A mobile application for car rental management with authentication, roles, reser
   <a href="mailto:meryemechcharyfy9@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="https://www.linkedin.com">
+  <a href="https://www.linkedin.com/in/meryem-echcharyfy-5ba4b9318">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" />
   </a>
 </p>

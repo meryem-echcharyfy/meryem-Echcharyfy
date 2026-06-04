@@ -1,73 +1,39 @@
+Voici le code complet **de A à Z** à copier-coller directement dans ton fichier `README.md`. Il est orienté **Cybersécurité + Intelligence Artificielle**, avec tes infos CV : ENSA Fès, IA & Confiance Numérique, stages, projets, compétences, certifications et contact. 
+
+````md
 <div align="center">
 
-```
-███╗   ███╗███████╗██████╗ ██╗   ██╗███████╗███╗   ███╗
-████╗ ████║██╔════╝██╔══██╗╚██╗ ██╔╝██╔════╝████╗ ████║
-██╔████╔██║█████╗  ██████╔╝ ╚████╔╝ █████╗  ██╔████╔██║
-██║╚██╔╝██║██╔══╝  ██╔══██╗  ╚██╔╝  ██╔══╝  ██║╚██╔╝██║
-██║ ╚═╝ ██║███████╗██║  ██║   ██║   ███████╗██║ ╚═╝ ██║
-╚═╝     ╚═╝╚══════╝╚═╝  ╚═╝   ╚═╝   ╚══════╝╚═╝     ╚═╝
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:22C55E&height=180&section=header&text=Meryem%20Echcharyfy&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
-# Meryem Echcharyfy
+<br>
 
-**`AI Engineering Student · ENSA Fès`**
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2800&pause=900&color=22C55E&center=true&vCenter=true&width=950&lines=AI+Engineering+Student;Artificial+Intelligence+%26+Digital+Trust;Cybersecurity+%7C+AI+Security+%7C+DevSecOps;Cloud+Security+%7C+Secure+Software+Engineering;Machine+Learning+%7C+Deep+Learning+%7C+NLP+%7C+RAG;Building+Intelligent%2C+Secure+and+Trustworthy+Systems" alt="Typing SVG" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=800&color=1D9E75&center=true&vCenter=true&width=650&lines=AI+%26+Digital+Trust+Engineering+Student;Cybersecurity+%7C+Cloud+Computing+%7C+DevOps;Building+intelligent%2C+secure+digital+solutions;Open+to+PFE+Internship+%F0%9F%9F%A2)](https://git.io/typing-svg)
+<br><br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-meryem--Echcharyfy-1D9E75?style=flat-square&logo=github&logoColor=white&labelColor=0a0f0c)](https://github.com/meryem-Echcharyfy)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-1D9E75?style=flat-square&logo=linkedin&logoColor=white&labelColor=0a0f0c)](https://www.linkedin.com/in/meryem-echcharyfy-5ba4b9318)
-[![Email](https://img.shields.io/badge/Email-Contact-1D9E75?style=flat-square&logo=gmail&logoColor=white&labelColor=0a0f0c)](mailto:meryemechcharyfy9@gmail.com)
-![Status](https://img.shields.io/badge/Status-Open_to_PFE_Internship-1D9E75?style=flat-square&labelColor=0a0f0c)
+<img src="https://img.shields.io/badge/Open%20to-PFE%20Internship-22C55E?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI%20Security-2563EB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Cybersecurity-0F172A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Digital%20Trust-22C55E?style=for-the-badge" />
+<img src="https://img.shields.io/badge/DevSecOps-9333EA?style=for-the-badge" />
 
 </div>
 
 ---
 
-## `$ whoami`
-
-Engineering student at **ENSA Fès**, specialized in **Artificial Intelligence and Digital Trust**. I build intelligent, secure and practical digital solutions — from AI/ML models and NLP pipelines to REST APIs, microservices and cloud-native deployments.
-
-Passionate about the intersection of **AI, Cybersecurity and DevOps**. Currently seeking a **PFE internship** to contribute to impactful, real-world projects.
-
----
-
-## `$ ls ./projects`
+## 👩‍💻 About Me
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td>
 
-### 🎓 Intelligent Academic Orientation System
-AI-powered recommendation platform helping Moroccan students choose academic programs based on their profile, preferences, mobility and admission thresholds.
+I am **Meryem Echcharyfy**, an engineering student at **ENSA Fès**, specialized in **Artificial Intelligence and Digital Trust**.
 
-`Python` `Machine Learning` `Deep Learning` `React` `FastAPI` `PostgreSQL` `NLP` `Web Scraping`
+My main focus is the intersection between **Artificial Intelligence and Cybersecurity**: building intelligent systems that are not only efficient, but also **secure, reliable and trustworthy**.
 
-</td>
-<td width="50%" valign="top">
+I am passionate about **AI Security, Cybersecurity, Secure Software Engineering, Cloud Security, DevSecOps, Machine Learning, Deep Learning, NLP and RAG systems**.
 
-### 🤖 RAG Chatbot Assistant
-Intelligent chatbot based on **Retrieval-Augmented Generation** and semantic search, answering questions from structured and unstructured documents.
-
-`Python` `RAG` `NLP` `Semantic Search` `PDF Processing`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🔒 SecureEcom — Secure E-commerce Platform
-Full e-commerce platform with JWT authentication, protected APIs, role-based access control and microservices architecture.
-
-`Python` `Flask` `JWT` `REST API` `Microservices` `Secure Coding`
-
-</td>
-<td width="50%" valign="top">
-
-### 📱 Android Car Rental Application
-Mobile application for car rental management featuring authentication, user roles, reservations and payment management.
-
-`Java` `Android Studio` `SQLite` `OOP`
+Currently, I am looking for a **PFE internship** in **Artificial Intelligence, Cybersecurity, AI Security, DevSecOps or Cloud Security**, where I can apply my technical skills and contribute to innovative real-world projects.
 
 </td>
 </tr>
@@ -75,117 +41,370 @@ Mobile application for car rental management featuring authentication, user role
 
 ---
 
-## `$ cat skills.json`
+## 🧠 Cybersecurity + AI Focus
 
-<details open>
-<summary><b>🤖 Artificial Intelligence</b></summary>
-<br>
+<table>
+<tr>
+<td width="50%">
 
-![Python](https://img.shields.io/badge/Python-1D9E75?style=flat-square&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-1D9E75?style=flat-square&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-1D9E75?style=flat-square&logo=scikitlearn&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-1D9E75?style=flat-square&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-1D9E75?style=flat-square&logoColor=white)
+### 🔐 Cybersecurity
 
-`Machine Learning` · `Deep Learning` · `NLP` · `RAG` · `Recommendation Systems` · `Data Analysis`
+- Application Security  
+- Secure Coding  
+- API Security  
+- JWT Authentication  
+- Access Control  
+- OpenSSL  
+- Cryptography Basics  
+- DevSecOps Practices  
+- Monitoring and Logging  
+- Security Analysis  
 
-</details>
+</td>
+<td width="50%">
 
-<details>
-<summary><b>☁️ Cloud & DevOps</b></summary>
-<br>
+### 🤖 Artificial Intelligence
 
-![Docker](https://img.shields.io/badge/Docker-0F6E56?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-0F6E56?style=flat-square&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-0F6E56?style=flat-square&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-0F6E56?style=flat-square&logo=ansible&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-0F6E56?style=flat-square&logo=jenkins&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI/CD-0F6E56?style=flat-square&logo=gitlab&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-0F6E56?style=flat-square&logo=argo&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-0F6E56?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-0F6E56?style=flat-square&logo=grafana&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-0F6E56?style=flat-square&logo=linux&logoColor=white)
+- Machine Learning  
+- Deep Learning  
+- Natural Language Processing  
+- Retrieval-Augmented Generation  
+- Recommendation Systems  
+- Semantic Search  
+- Data Analysis  
+- AI-based Decision Support  
+- Intelligent Chatbots  
+- Secure AI Systems  
 
-</details>
-
-<details>
-<summary><b>🔐 Cybersecurity</b></summary>
-<br>
-
-`Application Security` · `JWT` · `OpenSSL` · `Secure Coding` · `Access Control` · `DevSecOps` · `Cryptography`
-
-</details>
-
-<details>
-<summary><b>🛠️ Languages & Frameworks</b></summary>
-<br>
-
-![Python](https://img.shields.io/badge/Python-085041?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-085041?style=flat-square&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-085041?style=flat-square&logo=javascript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-085041?style=flat-square&logo=php&logoColor=white)
-![C](https://img.shields.io/badge/C-085041?style=flat-square&logo=c&logoColor=white)
-![React](https://img.shields.io/badge/React-085041?style=flat-square&logo=react&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-085041?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-085041?style=flat-square&logo=flask&logoColor=white)
-
-</details>
-
-<details>
-<summary><b>🗄️ Databases</b></summary>
-<br>
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-04342C?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-04342C?style=flat-square&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle_SQL-04342C?style=flat-square&logo=oracle&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-04342C?style=flat-square&logo=sqlite&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-04342C?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-
-</details>
+</td>
+</tr>
+</table>
 
 ---
 
-## `$ cat stats.md`
+## 💼 Professional Experience
+
+<table>
+<tr>
+<td width="50%">
+
+### 🚀 Research & DevOps Intern  
+**Khaoulaj Group Operations, Morocco**  
+📅 June 2026 – August 2026
+
+- Participated in the design and deployment of **cloud-native applications** using DevOps practices.
+- Used **Docker, Kubernetes, Git, CI/CD pipelines** and infrastructure automation.
+- Contributed to **monitoring, logging, security analysis** and **DevSecOps practices**.
+- Collaborated in Agile environments to improve deployment reliability.
+
+</td>
+<td width="50%">
+
+### 📊 Data Intern — Software & Tools Department  
+**ALTEN Delivery Center Morocco, Fès**  
+📅 July 2025
+
+- Analyzed and processed technical data for software and engineering activities.
+- Built dashboards and reports to support decision-making.
+- Contributed to improving internal tools and reporting processes.
+- Worked on data cleaning, visualization and technical reporting.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎓 Intelligent Academic Orientation System
+
+AI-based recommendation platform helping Moroccan students choose suitable academic programs based on grades, preferences, mobility and admission thresholds.
+
+**AI Focus**
+
+`Machine Learning` `Deep Learning` `Recommendation Systems` `NLP`
+
+**Tech Stack**
+
+`Python` `React` `FastAPI` `PostgreSQL` `Web Scraping`
+
+</td>
+<td width="50%">
+
+### 🤖 RAG Chatbot Assistant
+
+Intelligent chatbot using **Retrieval-Augmented Generation**, semantic search and NLP to answer questions from structured and unstructured documents.
+
+**AI Focus**
+
+`RAG` `NLP` `Semantic Search` `PDF Processing`
+
+**Security Interest**
+
+`Trusted Answers` `Controlled Knowledge Base` `Safe Responses`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🛒 SecureEcom — Secure E-commerce Platform
+
+Secure e-commerce platform with authentication, protected APIs, access control and microservices architecture.
+
+**Cybersecurity Focus**
+
+`JWT Authentication` `API Security` `Access Control` `Secure Coding`
+
+**Tech Stack**
+
+`Python` `Flask` `REST API` `Microservices`
+
+</td>
+<td width="50%">
+
+### 🚗 Android Car Rental Application
+
+Mobile application for car rental management with authentication, roles, reservations and payment management.
+
+**Security Focus**
+
+`Authentication` `Role Management` `Data Protection`
+
+**Tech Stack**
+
+`Java` `SQLite` `Android Studio` `OOP`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 Skill Proficiency
+
+```text
+AI / Machine Learning        ████████████████████░░  90%
+Cybersecurity                ██████████████████░░░░  85%
+AI Security                  ████████████████░░░░░░  80%
+DevSecOps                    ████████████████░░░░░░  80%
+Cloud & DevOps               █████████████████░░░░░  82%
+Secure Software Engineering  ██████████████████░░░░  85%
+NLP / RAG                    ████████████████░░░░░░  78%
+Databases                    █████████████████░░░░░  80%
+````
+
+---
+
+## 🛠️ Technologies & Tools
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=meryem-Echcharyfy&show_icons=true&theme=dark&bg_color=0a0f0c&border_color=1D9E75&icon_color=1D9E75&title_color=1D9E75&text_color=d4ede6&hide_border=false" height="160"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meryem-Echcharyfy&layout=compact&theme=dark&bg_color=0a0f0c&border_color=1D9E75&title_color=1D9E75&text_color=d4ede6" height="160"/>
+<img src="https://skillicons.dev/icons?i=python,java,c,js,php,html,css,react,flask,fastapi,mysql,postgres,sqlite,git,github,docker,kubernetes,linux,vscode,tensorflow" />
+
+</div>
+
+<br>
+
+<table>
+<tr>
+<td width="33%">
+
+### 🤖 AI & Data
+
+`Python`
+`Machine Learning`
+`Deep Learning`
+`TensorFlow`
+`NLP`
+`RAG`
+`Recommendation Systems`
+`Data Analysis`
+
+</td>
+<td width="33%">
+
+### 🔐 Cybersecurity
+
+`Application Security`
+`JWT`
+`OpenSSL`
+`Secure Coding`
+`Access Control`
+`DevSecOps`
+`Cryptography Basics`
+`API Security`
+
+</td>
+<td width="33%">
+
+### ☁️ Cloud & DevOps
+
+`Docker`
+`Kubernetes`
+`Git`
+`GitLab CI/CD`
+`Jenkins`
+`Terraform`
+`Ansible`
+`ArgoCD`
+`Prometheus`
+`Grafana`
+`Linux`
+
+</td>
+</tr>
+
+<tr>
+<td width="33%">
+
+### 💻 Programming
+
+`Python`
+`Java`
+`SQL`
+`PHP`
+`JavaScript`
+`C`
+
+</td>
+<td width="33%">
+
+### 🌐 Web & Backend
+
+`React`
+`FastAPI`
+`Flask`
+`REST APIs`
+`Microservices`
+`HTML`
+`CSS`
+
+</td>
+<td width="33%">
+
+### 🗄️ Databases
+
+`Oracle SQL`
+`PostgreSQL`
+`MySQL`
+`SQL Server`
+`SQLite`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🎓 Education
+
+<table>
+<tr>
+<td>
+
+### ENSA Fès — Morocco
+
+**Engineering Degree in Computer Science**
+Specialization: **Artificial Intelligence and Digital Trust**
+📅 2024 – Present
+
+### ENSA Fès — Morocco
+
+**Integrated Preparatory Classes — Mathematics and Computer Science**
+📅 2022 – 2024
+
+### Douroub Al Maarifa — Fès, Morocco
+
+**Baccalaureate in Physical Sciences**
+📅 2021 – 2022
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📜 Certifications
+
+<table>
+<tr>
+<td width="50%">
+
+* Cisco Network Technician Career Path
+* Cisco Python Essentials
+
+</td>
+<td width="50%">
+
+* Building AI — University of Helsinki
+* Object-Oriented Programming with Java — Universidad de Palermo
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🌍 Languages
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Arabic-Native-22C55E?style=for-the-badge" />
+<img src="https://img.shields.io/badge/French-Fluent-2563EB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/English-Advanced-9333EA?style=for-the-badge" />
 
 </div>
 
 ---
 
-## `$ cat certifications.txt`
+## 📈 GitHub Statistics
 
-| Certification | Issuer |
-|---|---|
-| Network Technician Career Path | Cisco |
-| Python Essentials | Cisco |
-| Building AI | University of Helsinki |
-| Object-Oriented Programming with Java | Universidad de Palermo |
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=meryem-Echcharyfy&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meryem-Echcharyfy&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=meryem-Echcharyfy&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
-## `$ locale`
+## 🌐 Contact Me
 
-| Language | Level |
-|---|---|
-| 🇲🇦 Arabic | Native |
-| 🇫🇷 French | Fluent |
-| 🇬🇧 English | Advanced |
+<div align="center">
+
+<a href="https://github.com/meryem-Echcharyfy">
+  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://www.linkedin.com/in/meryem-echcharyfy-5ba4b9318">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="mailto:meryemechcharyfy9@gmail.com">
+  <img src="https://img.shields.io/badge/Email-meryemechcharyfy9%40gmail.com-D14836?style=for-the-badge&logo=gmail" />
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-```
-// "Building intelligent, secure and impactful digital solutions."
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22C55E,50:2563EB,100:0F172A&height=120&section=footer" />
 
-*Open to PFE internship opportunities · Morocco & Remote*
+<br>
 
-[![GitHub followers](https://img.shields.io/github/followers/meryem-Echcharyfy?style=flat-square&color=1D9E75&labelColor=0a0f0c)](https://github.com/meryem-Echcharyfy)
+<i>“Building intelligent, secure and trustworthy AI-powered systems.”</i>
 
 </div>
